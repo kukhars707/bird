@@ -1,13 +1,13 @@
 {
-  "main.css": "/kukhars707.github.io/bird/static/css/main.1d3e8862.chunk.css",
-  "main.js": "/kukhars707.github.io/bird/static/js/main.44f6e89e.chunk.js",
-  "main.js.map": "/kukhars707.github.io/bird/static/js/main.44f6e89e.chunk.js.map",
-  "static/js/1.f76f1587.chunk.js": "/kukhars707.github.io/bird/static/js/1.f76f1587.chunk.js",
-  "static/js/1.f76f1587.chunk.js.map": "/kukhars707.github.io/bird/static/js/1.f76f1587.chunk.js.map",
-  "runtime~main.js": "/kukhars707.github.io/bird/static/js/runtime~main.ebea6677.js",
-  "runtime~main.js.map": "/kukhars707.github.io/bird/static/js/runtime~main.ebea6677.js.map",
-  "static/css/main.1d3e8862.chunk.css.map": "/kukhars707.github.io/bird/static/css/main.1d3e8862.chunk.css.map",
-  "index.html": "/kukhars707.github.io/bird/index.html",
-  "precache-manifest.d3a4fcef1bcbea915d4bc0b33cff3ac8.js": "/kukhars707.github.io/bird/precache-manifest.d3a4fcef1bcbea915d4bc0b33cff3ac8.js",
-  "service-worker.js": "/kukhars707.github.io/bird/service-worker.js"
+  "main.css": "/bird/static/css/main.1d3e8862.chunk.css",
+  "main.js": "/bird/static/js/main.44f6e89e.chunk.js",
+  "main.js.map": "/bird/static/js/main.44f6e89e.chunk.js.map",
+  "static/js/1.f76f1587.chunk.js": "/bird/static/js/1.f76f1587.chunk.js",
+  "static/js/1.f76f1587.chunk.js.map": "/bird/static/js/1.f76f1587.chunk.js.map",
+  "runtime~main.js": "/bird/static/js/runtime~main.0cdca5f0.js",
+  "runtime~main.js.map": "/bird/static/js/runtime~main.0cdca5f0.js.map",
+  "static/css/main.1d3e8862.chunk.css.map": "/bird/static/css/main.1d3e8862.chunk.css.map",
+  "index.html": "/bird/index.html",
+  "precache-manifest.906fc6bf80ad1364d654822ed10fb256.js": "/bird/precache-manifest.906fc6bf80ad1364d654822ed10fb256.js",
+  "service-worker.js": "/bird/service-worker.js"
 }
