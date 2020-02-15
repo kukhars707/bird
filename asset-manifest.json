@@ -1,13 +1,13 @@
 {
   "main.css": "/bird/static/css/main.e2e07343.chunk.css",
-  "main.js": "/bird/static/js/main.2c8107c8.chunk.js",
-  "main.js.map": "/bird/static/js/main.2c8107c8.chunk.js.map",
+  "main.js": "/bird/static/js/main.7e49db29.chunk.js",
+  "main.js.map": "/bird/static/js/main.7e49db29.chunk.js.map",
   "static/js/1.f9f04a74.chunk.js": "/bird/static/js/1.f9f04a74.chunk.js",
   "static/js/1.f9f04a74.chunk.js.map": "/bird/static/js/1.f9f04a74.chunk.js.map",
   "runtime~main.js": "/bird/static/js/runtime~main.0cdca5f0.js",
   "runtime~main.js.map": "/bird/static/js/runtime~main.0cdca5f0.js.map",
   "static/css/main.e2e07343.chunk.css.map": "/bird/static/css/main.e2e07343.chunk.css.map",
   "index.html": "/bird/index.html",
-  "precache-manifest.2fef48b6bb0b08a180d66e002918b0d5.js": "/bird/precache-manifest.2fef48b6bb0b08a180d66e002918b0d5.js",
+  "precache-manifest.933960b7ecf7605a06248a96e28180c5.js": "/bird/precache-manifest.933960b7ecf7605a06248a96e28180c5.js",
   "service-worker.js": "/bird/service-worker.js"
 }
