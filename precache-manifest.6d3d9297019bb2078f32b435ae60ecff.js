@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "aff86018567f2f50e25b",
+    "revision": "bfd6b772c56001099215",
     "url": "/bird/static/css/main.505dffd1.chunk.css"
   },
   {
-    "revision": "aff86018567f2f50e25b",
-    "url": "/bird/static/js/main.aff86018.chunk.js"
+    "revision": "bfd6b772c56001099215",
+    "url": "/bird/static/js/main.bfd6b772.chunk.js"
   },
   {
     "revision": "1b1a10197b3b3f7fce3f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/bird/static/media/hooge_05_55_Cyr2.d79b9614.ttf"
   },
   {
-    "revision": "3800338e9794d9333ecaa44e389fc64c",
+    "revision": "02e67748ffbd180d5c95e03f6d3ff5c2",
     "url": "/bird/index.html"
   }
 ];
